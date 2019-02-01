@@ -1,0 +1,19 @@
+{
+  "name": "fda-data-models",
+  "version": "1.0.1",
+  "description": "FDA Portal Data Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centralizedinc/fda-data-models.git"
+  },
+  "author": "ariel.a.balita@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centralizedinc/fda-data-models/issues"
+  },
+  "homepage": "https://github.com/centralizedinc/fda-data-models#readme"
+}
